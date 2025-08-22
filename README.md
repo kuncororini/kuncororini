@@ -1,16 +1,16 @@
-## Hi there 👋
+# Halo semua! 👋
 
-<!--
-**kuncororini/kuncororini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Lintang Kuncororini**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa Informatika**.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saat ini saya sedang belajar dan mengembangkan berbagai project, terutama di bidang **Mobile Development**.<br>
+
+Beberapa project yang sudah saya kerjakan:
+- Aplikasi To-Do List Mahasiswa  
+- Katalog Produk Sederhana
+- Eksperimen Machine Learning (Naïve Bayes & JST)
+
+Selain itu, saya juga tertarik pada bidang **UI/UX Design**, dan biasa menggunakan **Figma** untuk membuat desain aplikasi.<br>
+
+Jika kamu tertarik untuk berkenalan atau berkolaborasi denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/lintang-kuncororini-871821247/) ku ya. 🚀
