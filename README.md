@@ -1,16 +1,16 @@
-# Halo semua! 👋
+# Hello People! 👋
 
-Perkenalkan nama saya **Lintang Kuncororini**.<br>
+My name is **Lintang Kuncororini**.  
 
-Saya seorang **Mahasiswa Informatika**.<br>
+I am an **Informatics student**.  
 
-Saat ini saya sedang belajar dan mengembangkan berbagai project, terutama di bidang **Mobile Development**.<br>
+Currently, I am learning and developing various projects, especially in the field of **Mobile Development**.  
 
-Beberapa project yang sudah saya kerjakan:
-- Aplikasi To-Do List Mahasiswa  
-- Katalog Produk Sederhana
-- Eksperimen Machine Learning (Naïve Bayes & JST)
+Some of the projects I have worked on:  
+- **Student To-Do List App**  
+- **Simple Product Catalog**  
+- **Machine Learning Experiments (Naïve Bayes & Neural Networks)**  
 
-Selain itu, saya juga tertarik pada bidang **UI/UX Design**, dan biasa menggunakan **Figma** untuk membuat desain aplikasi.<br>
+In addition, I am also interested in **UI/UX Design**, and I often use **Figma** to design applications.  
 
-Jika kamu tertarik untuk berkenalan atau berkolaborasi denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/lintang-kuncororini-871821247/) ku ya. 🚀
+If you are interested in connecting or collaborating with me, feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/lintang-kuncororini-871821247/) 🚀
